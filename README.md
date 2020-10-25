@@ -2,6 +2,7 @@
 My Data Science Portfolio
 
 **Project 1: Gaming infographic**
+
 For the purposes of this infographic we have selected the dataset available at https://www.kaggle.com/egrinstein/20-years-of-games/version/2. It consists of 18000 rows with corresponding to different titles and platforms from 1996 to 2016. For example, if a game title was released on 3 different platforms it is accommodated in 3 rows. For every title the dataset contains the release day, month and year specific to each platform the title was released on. Furthermore, a genre associated with the title along with a review score and score phrase given by the popular games reviewing website IGN has been included in the dataset. In addition to this, we can see whether a game was an editor’s choice or not. Having such a huge collection of data is extremely useful for not only generating infographics but also to perform data analysis. Well classified data is extremely suitable for creating visualizations, as we can easily extract the information from the source. This also makes it easier to identify trends and make comparisons. As this dataset contains time-series information forming a story, while emphasizing on key elements becomes straightforward, which is the fundamental aspect of an infographic.
 
 **Project 2: Exploring a century of olympic games**
