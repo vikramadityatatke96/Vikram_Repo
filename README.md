@@ -24,7 +24,7 @@ We have selected Austrian Airlines, Etihad Airways, KLM, Lufthansa, Qatar Airway
 Online E-commerce websites like Amazon, Filpkart uses different recommendation models to provide different suggestions to different users. Amazon currently uses item-to-item collaborative filtering, which scales to massive data sets and produces high-quality recommendations in real time. This type of filtering matches each of the user's purchased and rated items to similar items, then combines those similar items into a recommendation list for the user. In this project we are going to build recommendation model for the electronics products of Amazon.
 
 [**Project 7:Sarcasm Detection**](https://github.com/vikramadityatatke96/Sarcasm-Detection)<br>
-Abstract—Online reviews through social media and other platforms play a vital role in predicting the success of a product. They are helpful in understanding about the people’s opinion on a product. This is achieved by
+Online reviews through social media and other platforms play a vital role in predicting the success of a product. They are helpful in understanding about the people’s opinion on a product. This is achieved by
 performing sentiment analysis. However, the sentiment
 scores cannot be completely relied on to get efficient results
 because of the presence of sarcasm. Sarcasm has the ability
